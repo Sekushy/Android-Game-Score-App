@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Game Counter - Basketball</string>
+    <string name="appName">Welcome to GameCounter!</string>
+    <string name="action_settings">Settings</string>
+</resources>
